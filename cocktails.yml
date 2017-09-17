@@ -1,0 +1,29 @@
+- name: bear
+  ingredients:
+    - type: bear
+      duration: 10s
+      order: 0
+
+- name: white russion
+  ingredients:
+      - type: vodka
+        duration: 5s
+        order: 0
+      - type: kahlua
+        duration: 5s
+        order: 0
+      - type: cream
+        duration: 5s
+        order: 1
+
+- name: black russion
+  ingredients:
+      - type: vodka
+        duration: 7s
+        order: 0
+      - type: kahlua
+        duration: 7s
+        order: 0
+
+
+
